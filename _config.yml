@@ -17,9 +17,9 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
+title:       CaptainDax-github-slideshow
 author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+description: A personalized activity for practicing Git and GitHub.
 
 sass:
   style:     :compressed
@@ -35,7 +35,7 @@ slideNumber:
   #    "c":  flattened slide number
   #  "c/t":  flattened slide number / total slides
   # "none":  dont't show slide numbers
-  format:    "c/t"
+  format:    "h/v"
 
 ## Reveal.initialize
 ## At the end of your page Jekyll initializes reveal by running the following code. Note that all config values are optional and will default as specified below.
